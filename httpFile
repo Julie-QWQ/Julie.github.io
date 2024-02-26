@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>学习资料合集</title>
+</head>
+<body> 
+    <h1>我整理的学习资料 合集</h1>
+    <hr>
+
+    <h3>B站高等数学精品网课</h3>
+    <img src="resources/images/高等数学.png" alt="这是一本高数书">
+    <br>
+    <a href="https://www.bilibili.com/video/BV1hq4y1s7VH/?spm_id_from=333.337.search-card.all.click&vd_source=1a0beea64679e0a987db42fb2db2c9b3">点击此处跳转至B站高等数学精品网课</a>
+    
+    <br>
+    <h3>B站Python精品网课</h3>
+    <img src="resources/images/Python.png" alt="这是Python网课封面图片">
+    <br>
+    <a href="https://www.bilibili.com/video/BV1gV411i7vq/?spm_id_from=333.337.search-card.all.click&vd_source=1a0beea64679e0a987db42fb2db2c9b3">点击此处跳转至B站Python精品网课</a>
+    
+    <br>
+    <h3>B站C语言精品网课</h3>
+    <img src="resources/images/C语言.png" alt="这是C语言网课封面图片">
+    <br>
+    <a href="https://www.bilibili.com/video/BV1he4y1w7wB/?spm_id_from=333.337.search-card.all.click&vd_source=1a0beea64679e0a987db42fb2db2c9b3">点击此处跳转至B站C语言精品网课</a>
+    
+    <br>
+    <h3>B站大学化学精品网课</h3>
+    <img src="resources/images/大学化学.png" alt="这是大学化学网课封面图片">
+    <br>
+    <a href="https://www.bilibili.com/video/BV1NU4y1s7vz/?spm_id_from=333.337.search-card.all.click">点击此处跳转至B站大学化学精品网课</a>
+    
+
+</body>
+</html>
